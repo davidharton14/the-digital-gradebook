@@ -1,0 +1,2 @@
+http://localhost/Tourism-Management-Website-master/thankyou.php
+http://localhost/Letstravel-master/home.php?status=loggedin#Upcoming
